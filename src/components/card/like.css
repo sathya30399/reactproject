@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+.flex{
+    border:0px solid red;
+    max-width: 400px; 
+    margin:auto;
+}
+.card{
+    border: 5px solid red;
+    position: relative;
+    margin: auto;
+  }
+  .positionup{
+    /* border: 1px solid green; */
+    position: absolute;
+    top:20px;
+    left: 250px;
+  }
+  .card-text{
+    max-width: fit-content;
+    font-size: 25px;
+    font-family: 'Courgette', cursive;;
+    /* background-color: rgb(66, 138, 38); */
+    color: brown;
+  }
+.atag{
+    border: 0px solid red;
+    margin:auto;
+    max-width: fit-content;
+    background-color: rgb(66, 138, 38);
+    
+}
+.text{
+    font-size: 20px;
+    color: brown;
+    font-family: 'Courgette', cursive;;
+    text-decoration: none;
+    margin: auto;
+    
+}

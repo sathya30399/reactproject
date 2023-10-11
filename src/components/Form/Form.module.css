@@ -1,0 +1,10 @@
+.form_head{
+    border:1px solid red;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    background-color: aliceblue;
+}
+.cfd{
+    background-color:rgb(177, 206, 14)!important;
+}
