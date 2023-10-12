@@ -13,7 +13,7 @@ const Form = () => {
      const user ={name:"",age:0}
 
      
-
+     
 
     const formhandle =(event:FormEvent)=>{
         event.preventDefault();
